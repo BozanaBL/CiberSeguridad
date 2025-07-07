@@ -5,13 +5,7 @@
 .img_Amenazas{
     height: 250px;
 }
-.hero {
-  background: url('../img/ciberseguridad.jpg') center/cover no-repeat;
-  height: 400px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+
 
 .hero h1, .hero p {
   color: white;
